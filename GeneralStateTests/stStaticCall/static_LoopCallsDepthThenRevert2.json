@@ -2,10 +2,11 @@
     "static_LoopCallsDepthThenRevert2" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "testeth 1.7.0-alpha.0+commit.f28504be.dirty",
-            "lllcversion" : "Version: 0.5.0-develop.2018.10.24+commit.01566c2e.Linux.g++",
+            "filling-rpc-server" : "Geth-1.9.6-unstable-63b18027-20190920",
+            "filling-tool-version" : "retesteth-0.0.1+commit.0ae18aef.Linux.g++",
+            "lllcversion" : "Version: 0.5.12-develop.2019.9.13+commit.2d601a4f.Linux.g++",
             "source" : "src/GeneralStateTestsFiller/stStaticCall/static_LoopCallsDepthThenRevert2Filler.json",
-            "sourceHash" : "944af28377871fa06d6851d761f6132c4d8b0254c4c47daa9534f216a62e3194"
+            "sourceHash" : "da2f922b81fe1afb6e8c516da2b031ab7019c05ca4e069c325bfdcb24a209604"
         },
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
@@ -16,36 +17,14 @@
             "previousHash" : "0x5e20a0453cecd065ea59c37ac63e079ee08998b6045136a8ce6635c7912ec0b6"
         },
         "post" : {
-            "Byzantium" : [
+            "Istanbul" : [
                 {
-                    "hash" : "0xfa74b7ccf5920b817426d1a41cc342252fe8e26cc55d6335b0f2b237f983514b",
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
                         "value" : 0
                     },
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
-            "Constantinople" : [
-                {
                     "hash" : "0xfa74b7ccf5920b817426d1a41cc342252fe8e26cc55d6335b0f2b237f983514b",
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
-                    "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
-                }
-            ],
-            "ConstantinopleFix" : [
-                {
-                    "hash" : "0xfa74b7ccf5920b817426d1a41cc342252fe8e26cc55d6335b0f2b237f983514b",
-                    "indexes" : {
-                        "data" : 0,
-                        "gas" : 0,
-                        "value" : 0
-                    },
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 }
             ]
@@ -60,7 +39,7 @@
             },
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x13426172c74d822b878fe800000000",
-                "code" : "",
+                "code" : "0x",
                 "nonce" : "0x00",
                 "storage" : {
                 }

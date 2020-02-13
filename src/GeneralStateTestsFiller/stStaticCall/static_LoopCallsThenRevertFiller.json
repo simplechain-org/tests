@@ -15,11 +15,11 @@
                     "gas" : 0,
                     "value" : -1
                 },
-                "network" : ["Byzantium", ">=ConstantinopleFix"],
+                "network" : [ ">=Istanbul"],
                 "result" : {
 		    "1000000000000000000000000000000000000000" : {
 		        "storage" : {
-		            "0x01" : "0x024d79"
+		            "0x01" : "0x025de1"
 		        }
 		    }
                 }
@@ -30,41 +30,11 @@
                     "gas" : 1,
                     "value" : -1
                 },
-                "network" : ["Byzantium", ">=ConstantinopleFix"],
+                "network" : [ ">=Istanbul"],
                 "result" : {
 		    "1000000000000000000000000000000000000000" : {
 		        "storage" : {
-		            "0x01" : "0x021070"
-		        }
-		    }
-                }
-            },
-	    {
-                "indexes" : {
-                    "data" : -1,
-                    "gas" : 0,
-                    "value" : -1
-                },
-                "network" : ["Constantinople"],
-                "result" : {
-		    "1000000000000000000000000000000000000000" : {
-		        "storage" : {
-		            "0x01" : "0x026039"
-		        }
-		    }
-                }
-            },
-	    {
-                "indexes" : {
-                    "data" : -1,
-                    "gas" : 1,
-                    "value" : -1
-                },
-                "network" : ["Constantinople"],
-                "result" : {
-		    "1000000000000000000000000000000000000000" : {
-		        "storage" : {
-		            "0x01" : "0x022330"
+		            "0x01" : "0x0220d8"
 		        }
 		    }
                 }
