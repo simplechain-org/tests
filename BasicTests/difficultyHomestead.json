@@ -42,7 +42,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0533acf29d",
 		"currentBlockNumber" : "0x07a120",
-		"currentDifficulty" : "0x1830a655e8c05706"
+		"currentDifficulty" : "0x1830a655e8c056fe"
 	},
 
  "DifficultyTest6" : {
@@ -357,7 +357,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0280438e62",
 		"currentBlockNumber" : "0x3d0900",
-		"currentDifficulty" : "0x1d09a48d7f837769"
+		"currentDifficulty" : "0x1d09a44d7f837769"
 	},
 
  "DifficultyTest41" : {
@@ -366,7 +366,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x03f5a79a3d",
 		"currentBlockNumber" : "0x3e8fa0",
-		"currentDifficulty" : "0x236c543d976133cb"
+		"currentDifficulty" : "0x236c53bd976133cb"
 	},
 
  "DifficultyTest42" : {
@@ -375,7 +375,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0698c327e8",
 		"currentBlockNumber" : "0x401640",
-		"currentDifficulty" : "0x5cde634a561f0c56"
+		"currentDifficulty" : "0x5cde624a561f0c56"
 	},
 
  "DifficultyTest43" : {
@@ -384,7 +384,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x050f9d65e9",
 		"currentBlockNumber" : "0x419ce0",
-		"currentDifficulty" : "0x5fd2f8f0205ba34c"
+		"currentDifficulty" : "0x5fd2f6f0205ba34c"
 	},
 
  "DifficultyTest44" : {
@@ -393,7 +393,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x06583c57d3",
 		"currentBlockNumber" : "0x432380",
-		"currentDifficulty" : "0x171b295437582318"
+		"currentDifficulty" : "0x171b255437582318"
 	},
 
  "DifficultyTest45" : {
@@ -402,7 +402,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x02f50c7bdb",
 		"currentBlockNumber" : "0x44aa20",
-		"currentDifficulty" : "0x5b70f33fef34ee4d"
+		"currentDifficulty" : "0x5b70eb3fef34ee4d"
 	},
 
  "DifficultyTest46" : {
@@ -411,7 +411,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x07b622553d",
 		"currentBlockNumber" : "0x4630c0",
-		"currentDifficulty" : "0x1c9e2962e06d1d15"
+		"currentDifficulty" : "0x1c9e1962e06d1d15"
 	},
 
  "DifficultyTest47" : {
@@ -420,7 +420,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x027a645e2c",
 		"currentBlockNumber" : "0x47b760",
-		"currentDifficulty" : "0x3f9b3aaf759928b8"
+		"currentDifficulty" : "0x3f9b1aaf759928b8"
 	},
 
  "DifficultyTest48" : {
@@ -429,7 +429,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0179ce25a8",
 		"currentBlockNumber" : "0x493e00",
-		"currentDifficulty" : "0x3ab789baa1a2be16"
+		"currentDifficulty" : "0x3ab749baa1a2be16"
 	},
 
  "DifficultyTest49" : {
@@ -438,7 +438,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x025ada7527",
 		"currentBlockNumber" : "0x4ac4a0",
-		"currentDifficulty" : "0x472861f6313cc180"
+		"currentDifficulty" : "0x4727e1f6313cc180"
 	},
 
  "DifficultyTest50" : {
@@ -2031,7 +2031,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x968878c3",
 		"currentBlockNumber" : "0x2dc6c0",
-		"currentDifficulty" : "0x18c568a7e55dfe8b"
+		"currentDifficulty" : "0x18c568a7d55dfe8b"
 	},
 
  "DifficultyTest227" : {
@@ -2040,7 +2040,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x06fba921c1",
 		"currentBlockNumber" : "0x2f4d60",
-		"currentDifficulty" : "0x6b87bfc9f1314f79"
+		"currentDifficulty" : "0x6b87bfc9d1314f79"
 	},
 
  "DifficultyTest228" : {
@@ -2049,7 +2049,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0409001703",
 		"currentBlockNumber" : "0x30d400",
-		"currentDifficulty" : "0x2df456858bf54a4c"
+		"currentDifficulty" : "0x2df456854bf54a4c"
 	},
 
  "DifficultyTest229" : {
@@ -2058,7 +2058,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x03688eea28",
 		"currentBlockNumber" : "0x325aa0",
-		"currentDifficulty" : "0x3e05f6acbc5b98c7"
+		"currentDifficulty" : "0x3e05f6ac3c5b98c7"
 	},
 
  "DifficultyTest230" : {
@@ -2067,7 +2067,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0450ff70a0",
 		"currentBlockNumber" : "0x33e140",
-		"currentDifficulty" : "0x0f0edf39f72b89cd"
+		"currentDifficulty" : "0xf0edf38f72b89cd"
 	},
 
  "DifficultyTest231" : {
@@ -2076,7 +2076,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0278f17000",
 		"currentBlockNumber" : "0x3567e0",
-		"currentDifficulty" : "0x2f5801317035912d"
+		"currentDifficulty" : "0x2f58012f7035912d"
 	},
 
  "DifficultyTest232" : {
@@ -2085,7 +2085,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x3644a50f",
 		"currentBlockNumber" : "0x36ee80",
-		"currentDifficulty" : "0x54d01ccbfd489d1a"
+		"currentDifficulty" : "0x54d01cc7fd489d1a"
 	},
 
  "DifficultyTest233" : {
@@ -2094,7 +2094,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0130354bba",
 		"currentBlockNumber" : "0x387520",
-		"currentDifficulty" : "0x45faa8fbfb7655de"
+		"currentDifficulty" : "0x45faa8f3fb7655de"
 	},
 
  "DifficultyTest234" : {
@@ -2103,7 +2103,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x05aef869be",
 		"currentBlockNumber" : "0x39fbc0",
-		"currentDifficulty" : "0x6b8faa10c99ca877"
+		"currentDifficulty" : "0x6b8faa00c99ca877"
 	},
 
  "DifficultyTest235" : {
@@ -2112,7 +2112,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0553046085",
 		"currentBlockNumber" : "0x3b8260",
-		"currentDifficulty" : "0x01637ecbd1310e09"
+		"currentDifficulty" : "0x1637eabd1310e09"
 	},
 
  "DifficultyTest236" : {
@@ -2121,7 +2121,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x24640d25",
 		"currentBlockNumber" : "0x3d0900",
-		"currentDifficulty" : "0x591bb3ce0634e0ad"
+		"currentDifficulty" : "0x591bb38e0634e0ad"
 	},
 
  "DifficultyTest237" : {
@@ -2130,7 +2130,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x061a21c42e",
 		"currentBlockNumber" : "0x3e8fa0",
-		"currentDifficulty" : "0x67d6c32b294191e3"
+		"currentDifficulty" : "0x67d6c2ab294191e3"
 	},
 
  "DifficultyTest238" : {
@@ -2139,7 +2139,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0568e8277f",
 		"currentBlockNumber" : "0x401640",
-		"currentDifficulty" : "0x16e185f438d3c6f4"
+		"currentDifficulty" : "0x16e184f438d3c6f4"
 	},
 
  "DifficultyTest239" : {
@@ -2148,7 +2148,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x025510dfc5",
 		"currentBlockNumber" : "0x419ce0",
-		"currentDifficulty" : "0x05ab48199c5c157e"
+		"currentDifficulty" : "0x5ab46199c5c157e"
 	},
 
  "DifficultyTest240" : {
@@ -2157,7 +2157,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x046b5fc3",
 		"currentBlockNumber" : "0x432380",
-		"currentDifficulty" : "0x17401c03bb3433e1"
+		"currentDifficulty" : "0x17401803bb3433e1"
 	},
 
  "DifficultyTest241" : {
@@ -2166,7 +2166,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x01dfeaa2af",
 		"currentBlockNumber" : "0x44aa20",
-		"currentDifficulty" : "0x03ca3a7f54689761"
+		"currentDifficulty" : "0x3ca327f54689761"
 	},
 
  "DifficultyTest242" : {
@@ -2175,7 +2175,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0345f6714e",
 		"currentBlockNumber" : "0x4630c0",
-		"currentDifficulty" : "0x387cae7fe12c722c"
+		"currentDifficulty" : "0x387c9e7fe12c722c"
 	},
 
  "DifficultyTest243" : {
@@ -2184,7 +2184,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x015d52c780",
 		"currentBlockNumber" : "0x47b760",
-		"currentDifficulty" : "0x138a94fd4e003774"
+		"currentDifficulty" : "0x138a74fd4e003774"
 	},
 
  "DifficultyTest244" : {
@@ -2193,7 +2193,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x0288cdd4a0",
 		"currentBlockNumber" : "0x493e00",
-		"currentDifficulty" : "0x28b4de83e6b7a558"
+		"currentDifficulty" : "0x28b49e83e6b7a558"
 	},
 
  "DifficultyTest245" : {
@@ -2202,7 +2202,7 @@
 		"parentUncles" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
 		"currentTimestamp" : "0x01ea40859a",
 		"currentBlockNumber" : "0x4ac4a0",
-		"currentDifficulty" : "0x67925c2b1f8ccaa6"
+		"currentDifficulty" : "0x6791dc2b1f8ccaa6"
 	},
 
  "DifficultyTest246" : {
@@ -2211,7 +2211,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x0485f3d5af",
 		"currentBlockNumber" : "0x0186a0",
-		"currentDifficulty" : "0x192d8865b6e26ee4"
+		"currentDifficulty" : "0x1930adb21a0ce5e2"
 	},
 
  "DifficultyTest247" : {
@@ -2220,7 +2220,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x06f7f2932d",
 		"currentBlockNumber" : "0x030d40",
-		"currentDifficulty" : "0x5ed4a28e964aaa43"
+		"currentDifficulty" : "0x5ee07ba7c4f79df8"
 	},
 
  "DifficultyTest248" : {
@@ -2229,7 +2229,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x03cd734fb0",
 		"currentBlockNumber" : "0x0493e0",
-		"currentDifficulty" : "0x30bc1e89206ed9b4"
+		"currentDifficulty" : "0x30c2354a1973c6ef"
 	},
 
  "DifficultyTest249" : {
@@ -2238,7 +2238,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x0647175ea4",
 		"currentBlockNumber" : "0x061a80",
-		"currentDifficulty" : "0x76ce50732f8e106d"
+		"currentDifficulty" : "0x76dd28624011f1ae"
 	},
 
  "DifficultyTest250" : {
@@ -2247,7 +2247,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x0133778fce",
 		"currentBlockNumber" : "0x07a120",
-		"currentDifficulty" : "0x508e0021bfc27d23"
+		"currentDifficulty" : "0x5098109fb43be63d"
 	},
 
  "DifficultyTest251" : {
@@ -2256,7 +2256,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x07e6ac03b7",
 		"currentBlockNumber" : "0x0927c0",
-		"currentDifficulty" : "0x1a2b6a9a54572c69"
+		"currentDifficulty" : "0x1a2eaf9f070b60b7"
 	},
 
  "DifficultyTest252" : {
@@ -2265,7 +2265,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x04b051c8f6",
 		"currentBlockNumber" : "0x0aae60",
-		"currentDifficulty" : "0x276d36b82a7ec63a"
+		"currentDifficulty" : "0x277223c1605d5a20"
 	},
 
  "DifficultyTest253" : {
@@ -2274,7 +2274,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x066f7af76f",
 		"currentBlockNumber" : "0x0c3500",
-		"currentDifficulty" : "0x7607d2892db5a980"
+		"currentDifficulty" : "0x761691ab9a8dc4f1"
 	},
 
  "DifficultyTest254" : {
@@ -2283,7 +2283,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x0574eaa3bc",
 		"currentBlockNumber" : "0x0dbba0",
-		"currentDifficulty" : "0x0749a0c10b634595"
+		"currentDifficulty" : "0x74a89d800a60925"
 	},
 
  "DifficultyTest255" : {
@@ -2292,7 +2292,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x031432bc94",
 		"currentBlockNumber" : "0x0f4240",
-		"currentDifficulty" : "0x4f105f81110a69cc"
+		"currentDifficulty" : "0x4f1a4050e731c52d"
 	},
 
  "DifficultyTest256" : {
@@ -2301,7 +2301,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x01a3b8320b",
 		"currentBlockNumber" : "0x10c8e0",
-		"currentDifficulty" : "0x09c998d12376eae0"
+		"currentDifficulty" : "0x9cad1dd1c1c4311"
 	},
 
  "DifficultyTest257" : {
@@ -2310,7 +2310,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x07e8c14172",
 		"currentBlockNumber" : "0x124f80",
-		"currentDifficulty" : "0x12b36d352c2f9559"
+		"currentDifficulty" : "0x12b5c3580e78ce23"
 	},
 
  "DifficultyTest258" : {
@@ -2319,7 +2319,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x0316760c74",
 		"currentBlockNumber" : "0x13d620",
-		"currentDifficulty" : "0x242f39225293a475"
+		"currentDifficulty" : "0x2433be78cc0ebf84"
 	},
 
  "DifficultyTest259" : {
@@ -2328,7 +2328,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0xeef26275",
 		"currentBlockNumber" : "0x155cc0",
-		"currentDifficulty" : "0x2baf65bb7b2db017"
+		"currentDifficulty" : "0x2bb4daf98adb101d"
 	},
 
  "DifficultyTest260" : {
@@ -2337,7 +2337,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x06cdac8aa1",
 		"currentBlockNumber" : "0x16e360",
-		"currentDifficulty" : "0x7bee984009a44d0c"
+		"currentDifficulty" : "0x7bfe14239533ef99"
 	},
 
  "DifficultyTest261" : {
@@ -2346,7 +2346,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x05949ab453",
 		"currentBlockNumber" : "0x186a00",
-		"currentDifficulty" : "0x4cde26e96610435c"
+		"currentDifficulty" : "0x4ce7c17af10b65f0"
 	},
 
  "DifficultyTest262" : {
@@ -2355,7 +2355,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x020d119166",
 		"currentBlockNumber" : "0x19f0a0",
-		"currentDifficulty" : "0x01b4bb69c4112027"
+		"currentDifficulty" : "0x1b4f1fa5f35bd97"
 	},
 
  "DifficultyTest263" : {
@@ -2364,7 +2364,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x01f1ee4944",
 		"currentBlockNumber" : "0x1b7740",
-		"currentDifficulty" : "0x74c6ee8b0910b8fa"
+		"currentDifficulty" : "0x74d58595f912da8c"
 	},
 
  "DifficultyTest264" : {
@@ -2373,7 +2373,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x06e57120e2",
 		"currentBlockNumber" : "0x1cfde0",
-		"currentDifficulty" : "0x0765046b66373ae1"
+		"currentDifficulty" : "0x765f0ee63425fe3"
 	},
 
  "DifficultyTest265" : {
@@ -2382,7 +2382,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x027259cb45",
 		"currentBlockNumber" : "0x1e8480",
-		"currentDifficulty" : "0x44f86e3e219a3b8b"
+		"currentDifficulty" : "0x45010c382a195dee"
 	},
 
  "DifficultyTest266" : {
@@ -2391,7 +2391,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x9283cff1",
 		"currentBlockNumber" : "0x200b20",
-		"currentDifficulty" : "0x404c83cecd5d6f64"
+		"currentDifficulty" : "0x40548c5e35421c7c"
 	},
 
  "DifficultyTest267" : {
@@ -2400,7 +2400,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x07d16f3092",
 		"currentBlockNumber" : "0x2191c0",
-		"currentDifficulty" : "0x16779807f3ef3191"
+		"currentDifficulty" : "0x167a66a121b7f25f"
 	},
 
  "DifficultyTest268" : {
@@ -2409,7 +2409,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x022bf2ef7d",
 		"currentBlockNumber" : "0x231860",
-		"currentDifficulty" : "0x2f6513e54e23500b"
+		"currentDifficulty" : "0x2f6affca4e0d0f3d"
 	},
 
  "DifficultyTest269" : {
@@ -2418,7 +2418,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x032dedcf53",
 		"currentBlockNumber" : "0x249f00",
-		"currentDifficulty" : "0x52d299ac8ca026d4"
+		"currentDifficulty" : "0x52dcf2b4a0ef20f9"
 	},
 
  "DifficultyTest270" : {
@@ -2427,7 +2427,7 @@
 		"parentUncles" : "0xb474a45ef82026d18138c2f23fee5586c9c7449f33f865e8838572ae06ffc7e9",
 		"currentTimestamp" : "0x03faf81893",
 		"currentBlockNumber" : "0x2625a0",
-		"currentDifficulty" : "0x19101069b964e05b"
+		"currentDifficulty" : "0x191332079260cd79"
 	},
 
  "DifficultyTest271" : {
