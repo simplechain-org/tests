@@ -1,28 +1,6 @@
 {
     "Vitalik_9" : {
-        "Byzantium" : {
-            "hash" : "a40eb7000de852898a385a19312284bb06f6a9b5d8d03e0b8fb5df2f07f9fe94",
-            "sender" : "d37922162ab7cea97c97a87551ed02c9a38b7332"
-        },
-        "Constantinople" : {
-            "hash" : "a40eb7000de852898a385a19312284bb06f6a9b5d8d03e0b8fb5df2f07f9fe94",
-            "sender" : "d37922162ab7cea97c97a87551ed02c9a38b7332"
-        },
-        "ConstantinopleFix" : {
-            "hash" : "a40eb7000de852898a385a19312284bb06f6a9b5d8d03e0b8fb5df2f07f9fe94",
-            "sender" : "d37922162ab7cea97c97a87551ed02c9a38b7332"
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-            "hash" : "a40eb7000de852898a385a19312284bb06f6a9b5d8d03e0b8fb5df2f07f9fe94",
-            "sender" : "d37922162ab7cea97c97a87551ed02c9a38b7332"
-        },
-        "Frontier" : {
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
+        "Singularity" : {
             "hash" : "a40eb7000de852898a385a19312284bb06f6a9b5d8d03e0b8fb5df2f07f9fe94",
             "sender" : "d37922162ab7cea97c97a87551ed02c9a38b7332"
         },

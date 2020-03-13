@@ -1,34 +1,6 @@
 {
     "DataTestFirstZeroBytes" : {
-        "Byzantium" : {
-            "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
-            "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
-        },
-        "Constantinople" : {
-            "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
-            "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
-        },
-        "ConstantinopleFix" : {
-            "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
-            "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
-        },
-        "EIP150" : {
-            "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
-            "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
-        },
-        "EIP158" : {
-            "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
-            "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
-        },
-        "Frontier" : {
-            "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
-            "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
-        },
-        "Homestead" : {
-            "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
-            "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
-        },
-        "Istanbul" : {
+        "Singularity" : {
             "hash" : "95f3e2568d38c188fb288570b588402ff37b8d0330eafc414df637d8003eea0d",
             "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
         },

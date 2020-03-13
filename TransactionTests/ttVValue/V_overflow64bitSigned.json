@@ -1,22 +1,6 @@
 {
     "V_overflow64bitSigned" : {
-        "Byzantium" : {
-        },
-        "Constantinople" : {
-        },
-        "ConstantinopleFix" : {
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-        },
-        "Frontier" : {
-            "hash" : "1ae041bfa0b77e66e123cdd53c67d8d4533705b94dc637d27e36ae3f5cf7698b",
-            "sender" : "fa7f04899691becd07dd3081d0a2f3ee7640af52"
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
+        "Singularity" : {
         },
         "_info" : {
             "comment" : "",
