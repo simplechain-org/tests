@@ -17,14 +17,14 @@
             "previousHash" : "0x5e20a0453cecd065ea59c37ac63e079ee08998b6045136a8ce6635c7912ec0b6"
         },
         "post" : {
-            "Istanbul" : [
+            "Singularity" : [
                 {
                     "indexes" : {
                         "data" : 0,
                         "gas" : 0,
                         "value" : 0
                     },
-                    "hash" : "0xf90b0c51c5f71b7dced2ff40e2c108937ea54e38fe9b0f84ce389c2ab86bf109",
+                    "hash" : "0xd2193df2bfaecdf3cb64c1a0191bf2e8da9b6696831fe6f7d6fba8c847f8b6a5",
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 },
                 {
@@ -33,7 +33,7 @@
                         "gas" : 0,
                         "value" : 1
                     },
-                    "hash" : "0x41e21b2084cdef09955daa9ccd17ea92a6d724df5c076fd25e036ecbad3889d8",
+                    "hash" : "0x529c62b972f76dc3fbbaa9a2244e1235fe75f3e3be63c8977a5c8bf52505378c",
                     "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
                 }
             ]

@@ -31,7 +31,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -83,7 +83,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -135,7 +135,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -187,7 +187,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -239,7 +239,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -291,7 +291,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -343,7 +343,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -395,7 +395,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -447,7 +447,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -499,7 +499,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -551,7 +551,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -603,7 +603,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -655,7 +655,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -707,7 +707,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -759,7 +759,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -811,7 +811,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -863,7 +863,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -915,7 +915,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -967,7 +967,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1019,7 +1019,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1071,7 +1071,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1123,7 +1123,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1175,7 +1175,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1227,7 +1227,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1279,7 +1279,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1331,7 +1331,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1383,7 +1383,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1435,7 +1435,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1487,7 +1487,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1539,7 +1539,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1591,7 +1591,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1643,7 +1643,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1695,7 +1695,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1747,7 +1747,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1799,7 +1799,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1851,7 +1851,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1903,7 +1903,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -1955,7 +1955,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2007,7 +2007,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2059,7 +2059,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2111,7 +2111,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2163,7 +2163,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2215,7 +2215,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2267,7 +2267,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2319,7 +2319,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2371,7 +2371,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2423,7 +2423,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2475,7 +2475,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2527,7 +2527,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2579,7 +2579,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2631,7 +2631,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2683,7 +2683,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2735,7 +2735,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2787,7 +2787,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2839,7 +2839,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2891,7 +2891,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2943,7 +2943,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -2995,7 +2995,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3047,7 +3047,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3099,7 +3099,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3151,7 +3151,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3203,7 +3203,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3255,7 +3255,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3307,7 +3307,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3359,7 +3359,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3411,7 +3411,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3463,7 +3463,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3515,7 +3515,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3567,7 +3567,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3619,7 +3619,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3671,7 +3671,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3723,7 +3723,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3775,7 +3775,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3827,7 +3827,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3879,7 +3879,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3931,7 +3931,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -3983,7 +3983,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4035,7 +4035,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4087,7 +4087,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4139,7 +4139,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4191,7 +4191,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4243,7 +4243,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4295,7 +4295,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4347,7 +4347,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4399,7 +4399,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4451,7 +4451,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4503,7 +4503,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4555,7 +4555,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4607,7 +4607,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4659,7 +4659,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4711,7 +4711,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4763,7 +4763,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4815,7 +4815,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4867,7 +4867,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4919,7 +4919,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -4971,7 +4971,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5023,7 +5023,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5075,7 +5075,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5127,7 +5127,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5179,7 +5179,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5231,7 +5231,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5283,7 +5283,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5335,7 +5335,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5387,7 +5387,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5439,7 +5439,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5491,7 +5491,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5543,7 +5543,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5595,7 +5595,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5647,7 +5647,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5699,7 +5699,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5751,7 +5751,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5803,7 +5803,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5855,7 +5855,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5907,7 +5907,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -5959,7 +5959,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6011,7 +6011,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6063,7 +6063,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6115,7 +6115,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6167,7 +6167,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6219,7 +6219,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6271,7 +6271,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6323,7 +6323,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6375,7 +6375,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6427,7 +6427,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6479,7 +6479,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6531,7 +6531,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6583,7 +6583,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6635,7 +6635,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6687,7 +6687,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6739,7 +6739,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6791,7 +6791,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6843,7 +6843,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6895,7 +6895,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6947,7 +6947,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
@@ -6999,7 +6999,7 @@
             "uncleHash" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347"
         },
         "lastblockhash" : "0x2a3c692012a15502ba9c39f3aebb36694eed978c74b52e6c0cf210d301dbf325",
-        "network" : "Frontier",
+        "network" : "Singularity",
         "postState" : {
             "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b" : {
                 "balance" : "0x2540be400",
