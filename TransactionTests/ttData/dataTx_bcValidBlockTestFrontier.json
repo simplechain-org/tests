@@ -1,22 +1,6 @@
 {
     "dataTx_bcValidBlockTestFrontier" : {
-        "Byzantium" : {
-        },
-        "Constantinople" : {
-        },
-        "ConstantinopleFix" : {
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-        },
-        "Frontier" : {
-            "hash" : "db43fc31ffc66cd413cd8d405d03c8479d1f17b95b20d82ba60f63337236df6a",
-            "sender" : "df409d3d52c787d13836158a14672c989d5d8800"
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
+        "Singularity" : {
         },
         "_info" : {
             "comment" : "",

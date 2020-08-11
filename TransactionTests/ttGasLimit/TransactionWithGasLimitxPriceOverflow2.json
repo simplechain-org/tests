@@ -1,34 +1,6 @@
 {
     "TransactionWithGasLimitxPriceOverflow2" : {
-        "Byzantium" : {
-            "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
-            "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
-        },
-        "Constantinople" : {
-            "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
-            "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
-        },
-        "ConstantinopleFix" : {
-            "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
-            "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
-        },
-        "EIP150" : {
-            "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
-            "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
-        },
-        "EIP158" : {
-            "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
-            "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
-        },
-        "Frontier" : {
-            "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
-            "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
-        },
-        "Homestead" : {
-            "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
-            "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
-        },
-        "Istanbul" : {
+        "Singularity" : {
             "hash" : "4e46ddc4691ba9398387f494b42cae733516ff75b1f4ebb12b6c2ed01967998b",
             "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
         },

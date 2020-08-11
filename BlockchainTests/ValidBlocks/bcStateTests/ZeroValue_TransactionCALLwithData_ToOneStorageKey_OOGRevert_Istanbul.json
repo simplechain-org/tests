@@ -1,10 +1,10 @@
 {
-    "ZeroValue_TransactionCALLwithData_ToOneStorageKey_OOGRevert_Istanbul_Istanbul" : {
+    "ZeroValue_TransactionCALLwithData_ToOneStorageKey_OOGRevert_Singularity_Singularity" : {
         "_info" : {
             "comment" : "intrinsic oog with data",
             "filledwith" : "testeth 1.7.0-alpha.2-8+commit.86bb4068.dirty",
             "lllcversion" : "Version: 0.5.12-develop.2019.9.13+commit.2d601a4f.Linux.g++",
-            "source" : "src/BlockchainTestsFiller/ValidBlocks/bcStateTests/ZeroValue_TransactionCALLwithData_ToOneStorageKey_OOGRevert_IstanbulFiller.json",
+            "source" : "src/BlockchainTestsFiller/ValidBlocks/bcStateTests/ZeroValue_TransactionCALLwithData_ToOneStorageKey_OOGRevert_SingularityFiller.json",
             "sourceHash" : "b9d6a66e604c1054378b01abfa8e56b20a6a8b50144548e206de80c247f2140d"
         },
         "blocks" : [
@@ -54,7 +54,7 @@
         },
         "genesisRLP" : "0xf901faf901f5a00000000000000000000000000000000000000000000000000000000000000000a01dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347942adc25665018aa1fe0e6bc666dac8fc2697ff9baa025a66260e106e4aabf890c1bc398ad84d91a5da434f7fe39c2664c2cb1b39e99a056e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421a056e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421b9010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000830200008083989680808203e842a056e81f171bcc55a6ff8345e692c0f86e5b48e01b996cadc001622fb5e363b421880102030405060708c0c0",
         "lastblockhash" : "0x379cbf6bf88d0b9eec7a63b17f338eba44d3fb856f862710287a98284df6bc88",
-        "network" : "Istanbul",
+        "network" : "Singularity",
         "postState" : {
             "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba" : {
                 "balance" : "0x1bc16d674ec80000",

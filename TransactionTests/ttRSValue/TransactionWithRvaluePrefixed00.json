@@ -1,34 +1,6 @@
 {
     "TransactionWithRvaluePrefixed00" : {
-        "Byzantium" : {
-            "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
-            "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
-        },
-        "Constantinople" : {
-            "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
-            "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
-        },
-        "ConstantinopleFix" : {
-            "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
-            "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
-        },
-        "EIP150" : {
-            "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
-            "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
-        },
-        "EIP158" : {
-            "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
-            "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
-        },
-        "Frontier" : {
-            "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
-            "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
-        },
-        "Homestead" : {
-            "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
-            "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
-        },
-        "Istanbul" : {
+        "Singularity" : {
             "hash" : "9f8de48be7398c8fa787bef9c201c0dc73fb8b3764f9ecfaaa5c88e30f267941",
             "sender" : "59805be0fb22cec65ee107f39f51d2a54cf8c522"
         },

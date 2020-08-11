@@ -1,20 +1,6 @@
 {
     "V_wrongvalue_121" : {
-        "Byzantium" : {
-        },
-        "Constantinople" : {
-        },
-        "ConstantinopleFix" : {
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-        },
-        "Frontier" : {
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
+        "Singularity" : {
         },
         "_info" : {
             "comment" : "",

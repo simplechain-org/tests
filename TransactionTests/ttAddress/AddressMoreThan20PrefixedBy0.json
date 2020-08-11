@@ -1,21 +1,8 @@
 {
     "AddressMoreThan20PrefixedBy0" : {
-        "Byzantium" : {
+        "Singularity" : {
         },
-        "Constantinople" : {
-        },
-        "ConstantinopleFix" : {
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-        },
-        "Frontier" : {
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
-        },
+
         "_info" : {
             "comment" : "",
             "filledwith" : "testeth 1.7.0-alpha.1-33+commit.9ec9d33e.dirty",

@@ -1,22 +1,6 @@
 {
     "TransactionWithSvalueLargerThan_c_secp256k1n_x05" : {
-        "Byzantium" : {
-        },
-        "Constantinople" : {
-        },
-        "ConstantinopleFix" : {
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-        },
-        "Frontier" : {
-            "hash" : "aa9b37202f998b5b2145b030d8349f79dad692134a30a2efdba00b9c83ba217a",
-            "sender" : "5ced92a94a7bfd7853b12d33ee59dd10ae94eb86"
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
+        "Singularity" : {
         },
         "_info" : {
             "comment" : "",

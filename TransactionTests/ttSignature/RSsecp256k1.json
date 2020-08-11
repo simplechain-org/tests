@@ -1,20 +1,6 @@
 {
     "RSsecp256k1" : {
-        "Byzantium" : {
-        },
-        "Constantinople" : {
-        },
-        "ConstantinopleFix" : {
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-        },
-        "Frontier" : {
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
+        "Singularity" : {
         },
         "_info" : {
             "comment" : "",

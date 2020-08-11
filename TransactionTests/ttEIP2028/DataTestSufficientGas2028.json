@@ -1,20 +1,6 @@
 {
     "DataTestSufficientGas2028" : {
-        "Byzantium" : {
-        },
-        "Constantinople" : {
-        },
-        "ConstantinopleFix" : {
-        },
-        "EIP150" : {
-        },
-        "EIP158" : {
-        },
-        "Frontier" : {
-        },
-        "Homestead" : {
-        },
-        "Istanbul" : {
+        "Singularity" : {
             "hash" : "38e1de3a9f4deebd18c635848a9593e10e8cce5543277ddb985c4507694bec89",
             "sender" : "b42837109dfc0d8686bca0446112c8db63fdd40b"
         },

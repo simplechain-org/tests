@@ -1,34 +1,6 @@
 {
     "AddressLessThan20Prefixed0" : {
-        "Byzantium" : {
-            "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
-            "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
-        },
-        "Constantinople" : {
-            "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
-            "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
-        },
-        "ConstantinopleFix" : {
-            "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
-            "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
-        },
-        "EIP150" : {
-            "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
-            "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
-        },
-        "EIP158" : {
-            "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
-            "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
-        },
-        "Frontier" : {
-            "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
-            "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
-        },
-        "Homestead" : {
-            "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
-            "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
-        },
-        "Istanbul" : {
+        "Singularity" : {
             "hash" : "2781a1444a7a4a646bf551f90913054dc47b2f3493d4a82a057445eb9e1c98cf",
             "sender" : "2fbffb0b9f709fd1fa4db9ff7342f2e6b3b2b7a6"
         },
